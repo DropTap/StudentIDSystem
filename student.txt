@@ -1,0 +1,14 @@
+Array
+(
+    [0] => Array
+        (
+            [Student_ID_Number] => 20-2466-432
+            [Last_Name] => BALISCAO
+            [First_Name] => RHOJAN MARK
+            [Middle_Initial] => S
+            [Course] => bsit
+            [Address] => 123 Purok Cuanso Central Bakakeng Marcos Highway Baguio City
+            [Birthdate] => 2001-08-08
+        )
+
+)

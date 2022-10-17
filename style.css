@@ -1,0 +1,21 @@
+body{
+	font-family: Century Gothic;
+	background-color: #65C703;
+}
+#container{
+	background-color: #499101;
+	border-radius: 10px;
+	padding: 10px;
+}
+.lname{
+	margin-left: 65px;
+}
+.fname{
+	margin-left: 67px;
+}
+.minitial{
+	margin-left: 50px;
+}
+textarea{
+	resize: none;
+}
